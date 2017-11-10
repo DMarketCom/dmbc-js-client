@@ -1,0 +1,20 @@
+{
+  "name": "dmbc-js-clinet",
+  "version": "1.0.0",
+  "description": "Light client for DMarket Blockchain",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "dmarket",
+    "blockchain",
+    "transactions",
+    "explorer"
+  ],
+  "author": "Karbushev Roman",
+  "license": "ISC",
+  "dependencies": {
+    "exonum-client": "^0.2.3",
+    "typescript": "^2.6.1"
+  }
+}
